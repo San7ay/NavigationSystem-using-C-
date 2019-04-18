@@ -1,0 +1,30 @@
+{
+ "waypoints": [
+  {
+   "name": "amsterdam",
+   "latitude": 67, 
+   "longitude": 56
+  },
+  {
+   "name": "Darmstadt",
+   "latitude": 75.7,
+   "longitude": 8.6512
+  }
+ ],
+ "pois": [
+  {
+   "name": "Mensa_HDA",
+   "latitude": 54,
+   "longitude": 20,
+   "type": "RESTAURANT",
+   "description": "The best mensa in the world"
+  },
+  {
+   "name": "Sitte",
+   "latitude": 11,
+   "longitude": 22,
+   "type": "RESTAURANT",
+   "description": "Most expensive but also good"
+  }
+ ]
+ }

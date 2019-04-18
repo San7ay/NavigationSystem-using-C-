@@ -1,0 +1,7 @@
+TOURISTIC,city center,place for winter market,69,39
+UNIVERSITY,H_DA,The best university in the world,20,30
+RESTAURANT,Mensa_HDA,The best mensa in the world,10,20
+RESTAURANT,Sitte,Most expensive but also good,11,22
+TOURISTIC,Stadt_zentrum,Beautiful and clean,20,30
+RESTAURANT,sumalya,best indian resturant ,64,33
+UNIVERSITY,TUD,one of the oldest university,68,54

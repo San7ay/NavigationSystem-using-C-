@@ -1,0 +1,8 @@
+amsterdam,    52.368   ,4.9036
+berlin,52.52,13.405
+darmstadt,49.8728,8.6512
+frankfurt,64.6,74.8
+manglore,53.5,68.5
+mysore,64.4,45.6
+paris,48.5,56.8
+tokio,35.6895,139.692
